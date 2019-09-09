@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C1232</color>
+    <color name="colorPrimaryDark">#322F76</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color1">#8EDDEE</color>
+    <color name="color2">#0E1131</color>
+    <color name="color_button2">#55AAC6</color>
+    <color name="color_button3">#317288</color>
+    <color name="color_button_calc">#251742</color>
+    <color name="button_add_color">#55AAC6</color>
+    <color name="rate_color">#F9D6F0</color>
+    <color name="color_quiz">#F9D6FF</color>
+    <color name="color_score">#BAA6B5</color>
+</resources>
